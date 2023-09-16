@@ -1,3 +1,5 @@
+127.0.0.1       localhost
+::1             localhost
 127.0.0.1  data.microsoft.com
 127.0.0.1  msftconnecttest.com
 127.0.0.1  azureedge.net
